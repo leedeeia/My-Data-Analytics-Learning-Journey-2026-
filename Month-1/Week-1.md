@@ -6,7 +6,7 @@ Understand the basics of Apache Spark and set up your learning environment
 ---
 
 ### ✅ Day 1
-- Topic: Introduction to Apache Spark
+- Topic: Introduction to Apache Spark 
 - Task:
   - What is Apache Spark
   - Why Spark is used (Big Data concept)
